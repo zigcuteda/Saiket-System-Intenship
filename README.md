@@ -40,4 +40,5 @@ This repository contains the work completed during my **Data Analysis Internship
 ## Repository Structure
 - `data_analysis_internship.ipynb`: Main Jupyter Notebook containing code and analysis.
 - `SKS Data analysis Task (1).pdf`: Official internship task description.
-- `Aman Verma.pdf`: Internship completion certificate.
+- `Internship completion.pdf`: Internship completion certificate.
+- `offer letter.pdf`: Intenship offer letter.
